@@ -1,3 +1,0 @@
-
-# Home
-[[about|About]]
