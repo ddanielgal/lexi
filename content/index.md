@@ -1,0 +1,4 @@
+Welcome to Lexi! 📇
+
+[[about]]
+
