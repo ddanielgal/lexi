@@ -6,3 +6,4 @@ Welcome to Lexi! 📇
 
 [[Laws]]
 
+[[Ideas]]
