@@ -1,9 +1,10 @@
-Welcome to Lexi! 📇
 
-[[about]]
+Welcome!
 
-[[People worth listening to]]
+[[Stacks]]
 
 [[Laws]]
 
 [[Ideas]]
+
+[[People worth listening to]]
