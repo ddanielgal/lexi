@@ -1,8 +1,8 @@
-Welcome to Lexi! 📇
 
-[[about]]
+Welcome!
 
-[[People worth listening to]]
+[[Stacks]]
 
 [[Laws]]
 
+[[People worth listening to]]
