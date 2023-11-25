@@ -28,3 +28,17 @@ The goal is to democratize domains.
 Verification is built in, using domains.
 
 Discovery is built in, using domains.
+
+# First prototype
+
+Self-hostable website.
+
+Shows the same as the Fediverse profile page would show: posts in chronological order.
+
+Unique design.
+
+Uses Fediverse app API for data.
+
+# Second prototype
+
+Supports login and posting.
